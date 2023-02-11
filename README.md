@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FASIL MUHAMMED KP</h1>
 <h3 align="center">A passionate back-end (Golang) developer from India</h3>
-<img src="[https://blog.jetbrains.com/wp-content/uploads/2021/02/Go_8001611039611515.gif](https://blog.logrocket.com/wp-content/uploads/2022/09/large-sized-android-activity-indicator-2.gif)">
+<img src="https://blog.logrocket.com/wp-content/uploads/2022/09/large-sized-android-activity-indicator-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazilnbr&label=Profile%20views&color=0e75b6&style=flat" alt="fazilnbr" /> </p>
 

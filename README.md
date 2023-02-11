@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm FASIL MUHAMMED KP</h1>
 <h3 align="center">A passionate back-end (Golang) developer from India</h3>
-<img width="150%" height="60%" src="https://www.kg-legal.eu/wp-content/uploads/2021/10/blockchain.gif">
+<img width="1000px" height="400px" src="https://www.kg-legal.eu/wp-content/uploads/2021/10/blockchain.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fazilnbr&label=Profile%20views&color=0e75b6&style=flat" alt="fazilnbr" /> </p>
 

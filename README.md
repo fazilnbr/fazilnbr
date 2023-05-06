@@ -4,7 +4,6 @@
 <hr>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Fazil Muhammed KP</h1>
-
 ```golang
 package main
 
@@ -30,8 +29,6 @@ func GetBio() Bio {
 	}
 }
 ```
-
-
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/fazil-muhammed-915807190/">
